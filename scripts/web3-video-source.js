@@ -4,7 +4,7 @@
   const isSafariEngine = (window.navigator.userAgent.toLowerCase().indexOf('safari') > -1);  // IOS may use different settings
 
   defaultSourceOptions = {
-    src: "https://livetree.azureedge.net/filecoin/OpeningKeynoteWithFileCoinJuanBenetIntroducesLivetree.mp4", 
+    src: "https://hajifirouz7.cdn.asset.aparat.com/aparat-video/cefb4973f501450aca3a75b88e0dcba545310846-720p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjlkODU2MjNkZDI1NGM3ZmQyNjlhZTRmMTEzZTM3YTVmIiwiZXhwIjoxNjU0NTk3OTMwLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.AWD2CmUZlCRGqvaSjNnTItGjN7-sdydwrYzqQm0njzg", 
     type: "video/mp4",
     itemUrl: config_optionsDefaults.web3VideoItemProtocolEndpoint,
     drmUrl: config_optionsDefaults.web3VideoDRMTokenEndpoint,
